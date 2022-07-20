@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "dupeenv",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/hloriana/Desktop/Amplify/dupe-env/amplify/backend/api/dupeenv/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
